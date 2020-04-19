@@ -5,11 +5,17 @@ This is part of my project from my University, and also first time I'm uploading
 
 Result
 
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+<img src="https://user-images.githubusercontent.com/26791801/79683423-a7151400-825c-11ea-9fb8-c3a32fd9f7dd.jpg" width="300" height="300">  |  <img src="https://user-images.githubusercontent.com/26791801/79683442-c3b14c00-825c-11ea-8142-e5150eb60499.jpg" width="300" height="300">
+
+
 Original Image
 
 <img src="https://user-images.githubusercontent.com/26791801/79683423-a7151400-825c-11ea-9fb8-c3a32fd9f7dd.jpg" width="300" height="300">
 
-Referemce Image
+Reference Image
 
 <img src="https://user-images.githubusercontent.com/26791801/79683442-c3b14c00-825c-11ea-8142-e5150eb60499.jpg" width="300" height="300">
 
