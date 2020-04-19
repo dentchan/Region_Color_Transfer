@@ -7,11 +7,11 @@ Result
 
 Original Image
 
-![flowers](https://user-images.githubusercontent.com/26791801/79683423-a7151400-825c-11ea-9fb8-c3a32fd9f7dd.jpg)
+![flowers](https://user-images.githubusercontent.com/26791801/79683423-a7151400-825c-11ea-9fb8-c3a32fd9f7dd.jpg =250x250 )
 
 Reference Image
 
-![red](https://user-images.githubusercontent.com/26791801/79683442-c3b14c00-825c-11ea-8142-e5150eb60499.jpg)
+![red](https://user-images.githubusercontent.com/26791801/79683442-c3b14c00-825c-11ea-8142-e5150eb60499.jpg =250x250)
 
 Output Image
 
