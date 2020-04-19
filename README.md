@@ -1,5 +1,5 @@
 # Region_Color_Transfer
-This is part of my project from my University, and also first time I'm uploading code Github.
+My name is Damian Holmes,this is part of my project from my University, and also my first time uploading code to Github.
 So you might see weird variable names or bad commented parts, please do forgive me.
 
 
