@@ -21,6 +21,9 @@ Compare
 
 ![concatenate](https://user-images.githubusercontent.com/26791801/79683464-e3487480-825c-11ea-867f-4f481cac1549.jpg)
 
+Note : 
+If look closely you will realise the border of the flower region are not properly adjusted, this is due to bad image segmentation which I aim to perfect it when my coding skill got better.
+
 
 
 
